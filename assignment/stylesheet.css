@@ -1,13 +1,22 @@
-img{
-   max-width: 100%;
+
+header{
+  background: #2F4F4F;
+  color: #FF5F1F;
+  text-align: center;
+
+
 }
 
-header {
-  background-color: #2F4F4F;
-  color: #FF5F1F
+h2{
+  background: #2F4F4F;
+  color: #FF5F1F;
 }
 
-h2 {
-   color: black;
-   background: yellow;
+body{
+  background-image: url(record.png);
+  margin: 0;
+  padding: 1em;
+  overflow: scroll;
+  background-color: #b1b5b5;
+
 }
